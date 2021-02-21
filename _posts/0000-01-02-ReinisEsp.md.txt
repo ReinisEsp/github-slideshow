@@ -1,0 +1,6 @@
+---
+layout: slide
+title: "<h1>Bienvenidos a la segunda página!<\h1>"
+---
+body:  Esto es una linea nueva dentro del archivo.(http://google.com)
+Utiliza la flecha hacia la izquierda para volver!
